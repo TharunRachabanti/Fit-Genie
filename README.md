@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fit_genie
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Fit-Genie
+>>>>>>> 89b49eb88312168c1e1199d6b490fae9d641e6c2
